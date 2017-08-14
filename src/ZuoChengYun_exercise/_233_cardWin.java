@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：排成一条直线的纸牌博弈问题
  * 给定数组arr，A，B两个玩家，A先拿，每次只能 拿最左或最右的数值

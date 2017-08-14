@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：最小编辑代价
  * 给定两个字符串str1，str2，再给定ic，dc，rc分别代表插入，删除和替换一个字符的代价，

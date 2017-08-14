@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：环形单链表的约瑟夫问题
  * Created by XCY on 2017/7/14.

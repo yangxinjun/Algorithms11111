@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 import java.util.Stack;
 
 /**
@@ -9,8 +10,7 @@ import java.util.Stack;
  * getMin直接从stackMin中取数据
  *
  * stackMin压入时稍省空间，但弹出操作稍微费时间
- *#####
- */(((((((())))))))
+ */
 public class _1_GetMin_MyStack_1 {
     private Stack<Integer> stackData;//用来正常存储数据
     private Stack<Integer> stackMin;//用来存储stackData中加入元素时每一步的最小值

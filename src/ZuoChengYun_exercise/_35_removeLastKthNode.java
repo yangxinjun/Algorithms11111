@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：删除链表倒数第k个节点  单向 双向
  * Created by XCY on 2017/7/12.

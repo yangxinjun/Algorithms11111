@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：换钱方法数，任意货币可以使用任意张数,求一共多少种方法
  * Created by XCY on 2017/8/8.

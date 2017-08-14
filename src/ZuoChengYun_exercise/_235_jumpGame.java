@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：跳跃游戏
  * 给定arr，arr[i] = k 表示可以从i位置向右跳1~k个位置
@@ -5,6 +6,7 @@
  * Created by XCY on 2017/8/13.
  *
  */
+
 public class _235_jumpGame {
     //jump代表目前跳了多少步，
     //cur代表只能跳jump步最远能到达的位置

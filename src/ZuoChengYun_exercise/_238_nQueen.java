@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：n皇后
  * 要求：任何两个皇后不同行，不同列，也不在同一条斜线

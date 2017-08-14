@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：一种删除链表节点的方式
  * Created by XCY on 2017/7/20.

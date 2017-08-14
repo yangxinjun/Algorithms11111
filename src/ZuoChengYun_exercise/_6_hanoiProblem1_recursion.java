@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 汉诺塔
  * 规则：限制不能从最左移到最右，也不能从最右移到最左

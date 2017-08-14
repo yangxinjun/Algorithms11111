@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：重新排列链表 1 2 3 4 5    1 3 2 4 5  ，  1 2 3 4    1 3 2 4
  * Created by XCY on 2017/7/20.

@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：1 斐波那契 第N项
  *       2 台阶走法 N阶，可走1，2

@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：输出两个有序链表的共有部分
  * Created by XCY on 2017/7/12.

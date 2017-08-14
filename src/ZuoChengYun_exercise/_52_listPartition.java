@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：将链表从左到右改为小于、等于、大于pivot的节点
  * Created by XCY on 2017/7/17.

@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：最长公共子串  必须连续
  * Created by XCY on 2017/8/9.

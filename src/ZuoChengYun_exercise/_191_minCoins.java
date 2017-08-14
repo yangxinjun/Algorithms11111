@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：换钱的最小货币数
  * Created by XCY on 2017/8/7.

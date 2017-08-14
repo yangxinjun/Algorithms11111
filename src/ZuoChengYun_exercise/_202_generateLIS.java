@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：最长递归子序列    给定arr，返回arr的最长递增子序列
  * Created by XCY on 2017/8/8.

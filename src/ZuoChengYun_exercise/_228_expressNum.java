@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：表达式得到期望结果的组成种数
  * 给定一个只有0，1，&，|,^五种字符组成的字符串express和布尔变量desired，

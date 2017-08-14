@@ -1,3 +1,4 @@
+package ZuoChengYun_exercise;
 /**
  * 目的：汉诺塔问题  打印最优路径
  * Created by XCY on 2017/8/8.
