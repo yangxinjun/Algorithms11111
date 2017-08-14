@@ -114,7 +114,12 @@ public class test {
         arr[e] = temp;
     }
     public static void main(String []args){
-        println("gjgj");
+//        println("gjgj");
+        String str = "gjrlwp";
+        println(str);
+        char[] chs = str.toCharArray();
+        Arrays.sort(chs);
+        println(String.valueOf(chs));
 //        char ch = 'b';#######
 //        int c = 98;
 //        println((char)c);
