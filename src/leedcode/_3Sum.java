@@ -4,11 +4,11 @@ import java.util.*;
 
 import static algorithms.Print.print;
 import static algorithms.Print.println;
-
+/*
 /**
  * Created by XCY on 2017/4/4.
  */
-public class _3Sum {
+public class _3Sum {//////////////////////////
     /**************
     //复杂度过高
      **************/
